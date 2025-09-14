@@ -1,0 +1,12 @@
+A project to build a recipe webpage with five recipes. The main skills I'm working on are:
+- Write HTML
+    - Use appropriate attributes: ref, alt, src, href, width, etc.
+    - Use headers and paragraphs for displaying text
+    - Make working links for navigating the page
+    - Display images throughout the project
+    - Use bolded text, ordered and unordered lists with appropriate accessibility tags
+    - Write comments explaining logic
+- Folder structure
+    - Use an index page with a pages folder for other pages, img folder for images
+- Git commit history
+    - Write atomic commits using the conventional commits structure
