@@ -12,3 +12,9 @@ body {
     margin: 100px auto;
     
 }
+
+.card {
+    background-color: #fff;
+    padding: 100px;
+    border-radius: 30px;
+}
